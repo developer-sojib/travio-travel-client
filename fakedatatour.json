@@ -1,0 +1,91 @@
+
+
+ [
+    {
+ 
+      "key": 1,
+      "img": "https://ithemeslab.com/tmdemo/wp/travelux/wp-content/uploads/2020/01/tour-img-1.jpg",
+      "title": "VISIT MAYA BAY",
+      "desc": "Where does one begin with Italy? Italy is the land of mouthwatering meals that last all night.",
+      "descL": "Where does one begin with Italy? Italy is the land of mouthwatering meals that last all night, heady wines to drink underneath olive trees, pastel villas built into sheer cliffs above the crystal blue Tyrrhenian Sea, and Renaissance paintings and marble sculptures that leave you awestruck and inspired. It is everyone’s dream to travel to Italy, and for good reason. Whether you are heading to the beach or to the mountains, to the vineyards or to the cities, there are endless possibilities for exciting Italy travel. Check out Travel + Leisure’s Italy travel guide to decide what to eat, where to stay and what to see.",
+      "price": 34.79,
+      "city": "LONDON",
+      "tour": "2 DAYS 3 NIGHTS",
+      "provider": "Hasan",
+      "rating": 4.2,
+      "ratingCount": "450",
+      "sellerThumb": "https://hasan-images.netlify.app/hasan.png"
+    },
+    {
+
+      "key": 2,
+      "img": "https://ithemeslab.com/tmdemo/wp/travelux/wp-content/uploads/2020/02/td-slide-3.jpg",
+      "title": "TREK IN MACHU PICCHU",
+      "desc": "Whether you are heading to the beach or to the mountains, to the vineyards or to the cities, there are endless possibilities for exciting Italy travel. Check out Travel + Leisure’s Italy travel guide to decide what A good place to start is the capital city of Rome, the birthplace of Western civilization and the site of many epic historical events. All the regions of Italy are different and cater to different kinds of vacations—from skiing in the Dolomites to sunning on the Aeolian Islands..",
+      "price": 422,
+      "city": "JAPAN",
+      "tour": "3 DAYS 3 NIGHTS",
+      "provider": "Hasan",
+      "rating": 4,
+      "ratingCount": "680",
+      "sellerThumb": "https://hasan-images.netlify.app/hasan.png"
+    },
+    {
+  
+      "key": 3,
+      "img": "https://ithemeslab.com/tmdemo/wp/travelux/wp-content/uploads/2020/01/tour-img-2-560x372.jpg",
+      "title": "SUNSET IN VERNAZZA",
+      "desc": "It is everyone’s dream to travel to Italy, and for good reason.",
+      "descL": "It is everyone’s dream to travel to Italy, and for good reason. Whether you are heading to the beach or to the mountains, to the vineyards or to the cities, there are endless possibilities for exciting Italy travel. Check out Travel + Leisure’s Italy travel guide to decide what to eat, where to stay and what to see.",
+      "price": 495,
+      "city": "ROME",
+      "tour": "1 DAYS 1 NIGHTS",
+      "provider": "Hasan",
+      "rating":210,
+      "ratingCount": "350",
+      "sellerThumb": "https://hasan-images.netlify.app/hasan.png"
+    },
+    {
+    
+      "key": 4,
+      "img": "https://ithemeslab.com/tmdemo/wp/travelux/wp-content/uploads/2020/01/tour-img-5-560x372.jpg",
+      "title": "BEAUTY OF VENICE",
+      "desc": "Leisure’s Italy travel guide to decide what to eat, where to stay and what to see.",
+      "descL": "A good place to start is the capital city of Rome, the birthplace of Western civilization and the site of many epic historical events. All the regions of Italy are different and cater to different kinds of vacations—from skiing in the Dolomites to sunning on the Aeolian Islands.Leisure’s Italy travel guide to decide what to eat, where to stay and what to see.",
+      "price": 48.69,
+      "city": "PARIS",
+      "tour": "5 DAYS 4 NIGHTS",
+      "provider": "Hasan",
+      "rating": 750,
+      "ratingCount": "560",
+    
+    },
+    {
+     
+      "key": 5,
+      "img": "https://ithemeslab.com/tmdemo/wp/travelux/wp-content/uploads/2020/02/td-slide-3.jpg",
+      "title": "TOP VIEW BRIDGE",
+      "desc": " Italy is the land of mouthwatering meals that last all night, heady wines to drink underneath olive trees,",
+      "descL": " Italy is the land of mouthwatering meals that last all night, heady wines to drink underneath olive trees, pastel villas built into sheer cliffs above the crystal blue Tyrrhenian Sea, and Renaissance paintings and marble sculptures that leave you awestruck and inspired. It is everyone’s dream to travel to Italy,",
+      "price": 469,
+      "city": "SAN FRANSISCO",
+      "tour": "2 DAYS 3 NIGHTS .18+",
+      "rating": 4,
+      "ratingCount": "500"
+     
+    },
+    {
+    
+      "key": 6,
+      "img": "https://ithemeslab.com/tmdemo/wp/travelux/wp-content/uploads/2020/01/blog-img-2.jpg",
+      "title": "VISIT TO LAKE CITY",
+      "desc": "Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis.",
+      "descL": "Curabitur tortor. Pellentesque nibh. Aenean quam. In scelerisque sem at dolor. Maecenas mattis. Sed convallis tristique sem. Proin ut ligula vel nunc egestas porttitor. Morbi lectus risus, iaculis vel",
+      "price": 440,
+      "city": "LAKE CITY",
+      "tour": "2 DAYS 3 NIGHTS 18+",
+      "rating": 3.5,
+      "ratingCount": "500"
+      
+    }
+  ]
